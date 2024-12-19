@@ -3,7 +3,7 @@
 Welcome to the **Qt6 C++ and Qt Quick** repository! This repository contains the final source code for YouTube series covering Qt6 development using C++ and Qt Quick (QML).
 
 ### Watch the Series:
-[🔗 https://youtube.com/playlist?list=PLdJzd_cjqpnTMqXoneKCFiDpNpprUbEf3&si=4CIYj6GT-xuq7hHP](#)
+[https://youtube.com/playlist?list=PLdJzd_cjqpnTMqXoneKCFiDpNpprUbEf3&si=4CIYj6GT-xuq7hHP](#)
 
 ## 📂 Repository Structure
 
