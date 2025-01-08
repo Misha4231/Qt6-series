@@ -16,6 +16,7 @@ chapter-x
 - **`chapter-1`**: Hellow World
 - **`chapter-2`**: QObject and MOC
 - **`chapter-3`**: More about QObject
+- **`chapter-4`**: Smart Pointers
 
 
 Each folder contains the complete source code covered in that specific episode, allowing you to follow along and reference the code as you learn.
