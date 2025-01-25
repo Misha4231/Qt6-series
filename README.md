@@ -18,6 +18,7 @@ chapter-x
 - **`chapter-3`**: More about QObject
 - **`chapter-4`**: Smart Pointers
 - **`chapter-5`**: Everything about QString
+- **`chapter-6`**: QLating1String and QStringView
 
 
 Each folder contains the complete source code covered in that specific episode, allowing you to follow along and reference the code as you learn.
