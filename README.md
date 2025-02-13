@@ -20,6 +20,7 @@ chapter-x
 - **`chapter-5`**: Everything about QString
 - **`chapter-6`**: QLating1String and QStringView
 - **`chapter-7`**: Introduction to QtQuick & QML
+- **`chapter-8`**: Full QML and C++ Integration Tutorial
 
 
 Each folder contains the complete source code covered in that specific episode, allowing you to follow along and reference the code as you learn.
