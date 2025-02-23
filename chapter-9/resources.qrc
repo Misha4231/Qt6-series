@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>assets/instagram.png</file>
+        <file>assets/medium.png</file>
+        <file>assets/youtube.png</file>
+    </qresource>
+    <qresource prefix="/avatars">
+        <file>assets/logo.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>assets/Kapal.ttf</file>
+    </qresource>
+</RCC>
