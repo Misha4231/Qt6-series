@@ -22,6 +22,7 @@ chapter-x
 - **`chapter-7`**: Introduction to QtQuick & QML
 - **`chapter-8`**: Full QML and C++ Integration Tutorial
 - **`chapter-9`**: Resource System
+- **`chapter-10`**: QML Modules
 
 
 Each folder contains the complete source code covered in that specific episode, allowing you to follow along and reference the code as you learn.
