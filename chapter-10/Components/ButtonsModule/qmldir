@@ -1,0 +1,5 @@
+module Components.ButtonsModule
+CustomButton 1.0 CustomButton.qml
+DangerButton 1.0 DangerButton.qml
+PrimaryButton 1.0 PrimaryButton.qml
+SecondaryButton 1.0 SecondaryButton.qml
