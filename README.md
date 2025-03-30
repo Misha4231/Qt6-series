@@ -23,6 +23,7 @@ chapter-x
 - **`chapter-8`**: Full QML and C++ Integration Tutorial
 - **`chapter-9`**: Resource System
 - **`chapter-10`**: QML Modules
+- **`chapter-11`**: Models and Views
 
 
 Each folder contains the complete source code covered in that specific episode, allowing you to follow along and reference the code as you learn.
